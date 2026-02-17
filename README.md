@@ -1,16 +1,39 @@
-## Hi there 👋
+# Amine Maazizi
 
-<!--
-**amine-maazizi/amine-maazizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in **Mathematics, Vision and Learning (MVA)** — ENS Paris-Saclay  
+Engineering student in Computer Science and Artificial Intelligence — ENSTA Paris  
+Research collaborator — Institut Pasteur, Biomedical Image Analysis Unit  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Focus
+
+My research develops machine learning and geometric modeling methods for structured scientific data, with an emphasis on biological systems and imaging.  
+I am particularly interested in:
+
+- geometric deep learning
+- representation learning
+- computer vision for biomedical imaging
+- scientific machine learning
+- probabilistic modeling of structured data
+- shape analysis and morphology
+
+The broader goal is to build learning systems that incorporate physical structure and domain knowledge rather than relying solely on black-box prediction.
+
+---
+
+## Collaboration
+
+I am open to academic collaboration related to:
+- geometric or scientific machine learning
+- biomedical imaging
+- representation learning on structured data
+- simulation-based learning
+
+---
+
+## Contact
+
+Email: amine.maazizi@ensta.fr  
+Website: https://amine-maazizi.github.io  
+LinkedIn: https://www.linkedin.com/in/amine-maazizi/
