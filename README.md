@@ -17,7 +17,7 @@ I am particularly interested in:
 - probabilistic modeling of structured data
 - shape analysis and morphology
 
--> My broader goal is to build learning systems that incorporate physical structure and domain knowledge rather than relying solely on black-box prediction.
+$\to$ My broader goal is to build learning systems that incorporate physical structure and domain knowledge rather than relying solely on black-box prediction.
 
 ---
 
