@@ -1,8 +1,7 @@
 # Amine Maazizi
 
-MSc student in **Mathematics, Vision and Learning (MVA)** — ENS Paris-Saclay  
-Engineering student in Computer Science and Artificial Intelligence — ENSTA Paris  
-Research collaborator — Institut Pasteur, Biomedical Image Analysis Unit  
+MSc student in **Mathematics, Vision and Learning (MVA)** @ ENS Paris-Saclay  
+Engineering student in Computer Science and Artificial Intelligence @ ENSTA Paris  
 
 ---
 
@@ -18,17 +17,7 @@ I am particularly interested in:
 - probabilistic modeling of structured data
 - shape analysis and morphology
 
-The broader goal is to build learning systems that incorporate physical structure and domain knowledge rather than relying solely on black-box prediction.
-
----
-
-## Collaboration
-
-I am open to academic collaboration related to:
-- geometric or scientific machine learning
-- biomedical imaging
-- representation learning on structured data
-- simulation-based learning
+-> My broader goal is to build learning systems that incorporate physical structure and domain knowledge rather than relying solely on black-box prediction.
 
 ---
 
