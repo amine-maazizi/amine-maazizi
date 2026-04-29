@@ -1,28 +1,19 @@
 # Amine Maazizi
 
-MSc student in **Mathematics, Vision and Learning (MVA)** @ ENS Paris-Saclay  
+Research Intern @ EPFL's Artificial Intelligence In Molecular Medicine lab
+MSc student in Mathematics, Vision and Learning (MVA) @ ENS Paris-Saclay  
 Engineering student in Computer Science and Artificial Intelligence @ ENSTA Paris  
 
 ---
 
 ## Research Focus
 
-My research develops machine learning and geometric modeling methods for structured scientific data, with an emphasis on biological systems and imaging.  
-I am particularly interested in:
-
-- geometric deep learning
-- representation learning
-- computer vision for biomedical imaging
-- scientific machine learning
-- probabilistic modeling of structured data
-- shape analysis and morphology
-
-$\to$ My broader goal is to build learning systems that incorporate physical structure and domain knowledge rather than relying solely on black-box prediction.
+I am interested in machine learning approaches that incorporate inductive biases, such as geometric structure, to learn useful representations without relying solely on scale. I am currently working on latent-space perturbation modeling for spatial proteomics data, with applications to treatment-response simulation.
 
 ---
 
 ## Contact
 
-Email: amine.maazizi@ensta.fr  
+Email: amine.maazizi@ensta.fr | amine.maazizi@ip-paris.fr | amine.maazizi@epfl.ch  
 Website: https://amine-maazizi.github.io  
 LinkedIn: https://www.linkedin.com/in/amine-maazizi/
