@@ -1,8 +1,8 @@
 # Amine Maazizi
 
-Research Intern @ EPFL's Artificial Intelligence In Molecular Medicine lab
-MSc student in Mathematics, Vision and Learning (MVA) @ ENS Paris-Saclay  
-Engineering student in Computer Science and Artificial Intelligence @ ENSTA Paris  
+- Research Intern @ EPFL's Artificial Intelligence In Molecular Medicine lab
+- MSc student in Mathematics, Vision and Learning (MVA) @ ENS Paris-Saclay  
+- Engineering student in Computer Science and Artificial Intelligence @ ENSTA Paris  
 
 ---
 
