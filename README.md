@@ -1,19 +1,17 @@
 # Amine Maazizi
 
-- Research Intern @ EPFL's Artificial Intelligence In Molecular Medicine lab
-- MSc student in Mathematics, Vision and Learning (MVA) @ ENS Paris-Saclay  
-- Engineering student in Computer Science and Artificial Intelligence @ ENSTA Paris  
+Research Intern at EPFL and incoming Doctoral Researcher at Mines Paris – PSL, where I will join the Centre for Robotics and the NPM3D team in November 2026.
 
----
+I am currently completing the MVA Research Master’s in Mathematics, Vision and Learning at ENS Paris-Saclay, alongside the French *Diplôme d’Ingénieur* in Computer Science and Artificial Intelligence at ENSTA Paris.
 
-## Research Focus
+## Research Interests
 
-I am interested in machine learning approaches that incorporate inductive biases, such as geometric structure, to learn useful representations without relying solely on scale. I am currently working on latent-space perturbation modeling for spatial proteomics data, with applications to treatment-response simulation.
+My research interests are representation learning, open-vocabulary 3D perception, and multimodal knowledge transfer from vision–language models to LiDAR and point clouds.
 
----
+I am currently working at EPFL on patient-specific treatment-response modelling in spatial proteomics using representations from the VirTues foundation model.
 
-## Contact
+## Links
 
-Email: amine.maazizi@ensta.fr | amine.maazizi@ip-paris.fr | amine.maazizi@epfl.ch  
-Website: https://amine-maazizi.github.io  
-LinkedIn: https://www.linkedin.com/in/amine-maazizi/
+- [Website](https://amine-maazizi.github.io)
+- [LinkedIn](https://www.linkedin.com/in/amine-maazizi/)
+- [Email](mailto:amine.maazizi@ensta.fr)
